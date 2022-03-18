@@ -1,0 +1,9 @@
+{
+  "contest": 99,
+  "handle": "aparecekarl18",
+  "address": "0xE94Ff9d96634807733b3896d052098804F76F981",
+  "risk": "3",
+  "title": "Security Report: Subdomain Takeover of  https://launch.maple.finance/ Pointing to Github",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-03-maple-findings/issues/5"
+}
