@@ -1,0 +1,9 @@
+{
+  "contest": 99,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "`migrate()` fails if current balance is zero",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-03-maple-findings/issues/19"
+}
