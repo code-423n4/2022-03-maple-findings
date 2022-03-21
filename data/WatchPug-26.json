@@ -1,0 +1,9 @@
+{
+  "contest": 99,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "ERC20.sol `permit()` does not comply with ERC-2612 standard",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-03-maple-findings/issues/26"
+}
