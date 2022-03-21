@@ -1,0 +1,9 @@
+{
+  "contest": 99,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H7] Improper design/implementation makes the borrower tend to default the loan in their best interest",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-03-maple-findings/issues/28"
+}
