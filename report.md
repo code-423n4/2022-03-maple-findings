@@ -1,3 +1,11 @@
+---
+sponsor: "Maple Finance"
+slug: "2022-03-maple"
+date: "2022-04-20"
+title: "Maple Finance contest"
+findings: "https://github.com/code-423n4/2022-03-maple-findings/issues"
+contest: 99
+---
 
 # Overview
 
